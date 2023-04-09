@@ -1,2 +1,3 @@
 # Beginner-Starter-Guide
-A beginner starter guide to learn about Nervos blockchain
+A beginner starter guide: learn about the Nervos blockchain and how to build.
+
